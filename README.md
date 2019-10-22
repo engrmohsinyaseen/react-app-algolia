@@ -1,6 +1,6 @@
 # places
 
-_This project is created with (https://github.com/algolia/create-instantsearch-app) by [Algolia](https://algolia.com)._
+_This project is created with [Algolia](https://algolia.com)._
 
 ## Get started
 
